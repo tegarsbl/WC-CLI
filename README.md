@@ -16,7 +16,7 @@ You can install WC-CLI either globally or locally.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wc-cli.git
+   git clone https://github.com/tegarsbl/WC-CLI.git
    cd WC-CLI
    ```
 2. Build and install the project:
@@ -39,7 +39,6 @@ This will compile the source code and install the binary (wct) into `/usr/local/
    ```bash
    make uninstall
    ```
-
 2. Clean build files:
    ```bash
    make clean
