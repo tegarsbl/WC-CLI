@@ -35,18 +35,17 @@ This will compile the source code and install the binary (wct) into `/usr/local/
    
 ## Uninstall
 
-4. Uninstall the project:
+1. Uninstall the project:
    ```bash
    make uninstall
    ```
 
-5. Clean build files:
+2. Clean build files:
    ```bash
    make clean
    ```
 
 ## Usage
-
    ```bash
    wct [OPTIONS] [FILE]
    ```
