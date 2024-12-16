@@ -25,7 +25,7 @@ You can install WC-CLI either globally or locally.
    make install
    ```
 
-This will compile the source code and install the binary (wct) into /usr/local/bin for global access.
+This will compile the source code and install the binary (wct) into `/usr/local/bin` for global access.
 
 
 3. Verify the installation:
